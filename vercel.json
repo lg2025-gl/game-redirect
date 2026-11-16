@@ -2,7 +2,7 @@
   "redirects": [
     {
       "source": "/(.*)",
-      "destination": "https://favor-nine-reunion-farming.trycloudflare.com/$1",
+      "destination": "https://mirrors-answered-classical-matt.trycloudflare.com/$1",
       "statusCode": 302
     }
   ]
