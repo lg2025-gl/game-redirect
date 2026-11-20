@@ -2,7 +2,7 @@
   "redirects": [
     {
       "source": "/(.*)",
-      "destination": "https://mirrors-answered-classical-matt.trycloudflare.com/$1",
+      "destination": "https://geo-hosted-tags-barrier.trycloudflare.com/$1",
       "statusCode": 302
     }
   ]
