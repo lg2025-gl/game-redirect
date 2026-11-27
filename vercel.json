@@ -2,7 +2,7 @@
   "redirects": [
     {
       "source": "/(.*)",
-      "destination": "https://evaluated-weeks-construction-lows.trycloudflare.com/$1",
+      "destination": "https://wherever-posting-greensboro-received.trycloudflare.com/$1",
       "statusCode": 302
     }
   ]
